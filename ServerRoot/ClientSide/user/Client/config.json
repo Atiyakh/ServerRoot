@@ -1,0 +1,6 @@
+{
+    "ip": "192.168.1.5",
+    "hostname_varification": false,
+    "router_port": 80,
+    "entity": "user"
+}
