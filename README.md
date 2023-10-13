@@ -1,2 +1,2 @@
 # ServerRoot
-Low-level Python TCP Server Infrastructure
+Low-level Asynchronous Python TCP Server Infrastructure with custom protocols.
